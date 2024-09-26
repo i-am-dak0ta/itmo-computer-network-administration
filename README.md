@@ -7,4 +7,4 @@
 
 ## Лабораторные работы
 
-- ЛР 1. Loki + Zabbix + Grafana
+- [ЛР 1. Loki + Zabbix + Grafana](./lab-1)
