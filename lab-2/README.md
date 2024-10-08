@@ -1,6 +1,6 @@
 ## Часть 1. Установка и настройка Ansible
 
-1. Устанавливаем пакетный менеджер pip для нашего python: curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py && python3 get-pip.py
+1. Устанавливаем пакетный менеджер pip для нашего python: ```curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py && python3 get-pip.py```
 
 2. Устанавливаем, собственно, ansible: python3 -m pip install ansible
 
