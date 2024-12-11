@@ -9,3 +9,4 @@
 
 - [ЛР 1. Loki + Zabbix + Grafana](./lab-1)
 - [ЛР 2. Ansible + Caddy](./lab-2)
+- [ЛР 3. HA Postgres Cluster](./lab-3)
